@@ -1,0 +1,31 @@
+html{
+    background: url(https://p4.wallpaperbetter.com/wallpaper/695/925/153/anime-re-zero-starting-life-in-another-world-re-zero-rem-re-zero-wallpaper-preview.jpg);
+    background-size: cover;
+}
+
+.title{
+border-left: 1000px;
+background-color: aqua;
+color: aliceblue;
+
+
+}  
+.title h2{
+  text-align: center;
+  color: rgb(250, 245, 246);
+}
+
+
+.logo{
+    margin-left: 500px;
+    size: 200px;
+    max-width: 50%;
+    height: auto;
+
+
+}
+.text p{
+    margin-top: 50px;
+    font-size: 20px;
+    text-align: center;
+}
